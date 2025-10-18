@@ -16,7 +16,11 @@
 
 ### Added
 
-- Added `multiply(a, b)` function in `functions.py` to perform division.
+- Added `multiply(a, b)` function in `functions.py` to perform multiply.
+
+### Fixed
+
+- Fixed `multiply(a, b)` function in `functions.py` to perform multiply.
 
 ## [1.0.2] 2025-10-18
 
